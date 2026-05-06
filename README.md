@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/b3eid-3annak-ma-b3ref-far-from-you-i-dont-know/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Music Licensing for B3eid 3annak Ma B3ref – Far from You, I Don't Know](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
